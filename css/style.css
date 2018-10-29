@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Charmonman');
+body {
+font-family: 'Charmonman', cursive;
+color: white;
+  background: linear-gradient(160deg,#73ffbb,#00dbd7,#00b1e4,#0082d2,#4669cc,#8163e1,#c050e8,#ff13dd)fixed;
+ }
+
+.harrypotterpic{
+  padding 20 40 70px;
+  width: 300px; 
+}
+p{
+  font-size: 30px;
+}
+
+.important {
+ background: #340068;
+  width: 400px;
+}
+  
+.mecontainer{
+  background: #fff;
+  width: 400px;
+}
+
+img {
+  display: block;
+}
+
+a {
+
+  color: white;
+}
